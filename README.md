@@ -5,7 +5,6 @@ This is a simple and efficient Calculator implemented in C++. It allows users to
 <br>
 Features:
 1. Basic Arithmetic Operations: Perform addition, subtraction, multiplication, and division.
-<br>
 2. User Input: Enter numbers and select operations via a simple text-based interface.
  <br>
 3. Error Handling: Handles division by zero and invalid inputs gracefully.
